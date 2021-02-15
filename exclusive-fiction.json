@@ -1,0 +1,30 @@
+[
+    {
+        "title": "February Haiku",
+        "description": "",
+        "datePublished": "2021-02-15",
+        "categories": [
+            "Poetry",
+            "Haiku"
+        ],
+        "text": "cold February\nsmoke rises from the chimneys\nash and snow are one",
+        "language": null,
+        "GRLink": null,
+        "image": "covers/640px-Anders_Andersen-Lundby_Winterlandschaft_1885.png",
+        "size": "s"
+    },
+    {
+        "title": "Marginalia Haiku",
+        "description": "A haiku inspired by medieval marginalia.",
+        "datePublished": "2021-02-15",
+        "categories": [
+            "Poetry",
+            "Haiku"
+        ],
+        "text": "a warrior rabbit\nsharp sword in one paw, charging\nlion's mane beneath",
+        "language": null,
+        "GRLink": null,
+        "image": "covers/medieval-killer-rabbit.jpg",
+        "size": "s"
+    }
+]
