@@ -6,7 +6,8 @@
         "categories": [
             "Prose",
             "Flash Fiction",
-            "Fantasy"
+            "Fantasy",
+            "Mythic"
         ],
         "publication": "Collective Realms Magazine, Issue #06",
         "formats": [
@@ -16,7 +17,7 @@
         "language": "English",
         "link": "https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
         "GRLink": null,
-        "image": "covers/crm-issue+06.png"
+        "image": "covers/crm-issue+06.webp"
     },
     {
         "title": "Елпида (Elpis)",
@@ -25,7 +26,8 @@
         "categories": [
             "Prose",
             "Short Story",
-            "Fantasy"
+            "Fantasy",
+            "Urban"
         ],
         "publication": "Мечове в града (Swords in the City)",
         "formats": [
@@ -35,7 +37,7 @@
         "language": "Bulgarian",
         "link": "https://chitanka.info/text/42276-elpida",
         "GRLink": "https://www.goodreads.com/book/show/18718318",
-        "image": "covers/Мечове_в_града-front-1000px.jpg"
+        "image": "covers/Мечове_в_града-front-1000px.webp"
     },
     {
         "title": "Битка по залез (Battle at Sunset)",
@@ -44,7 +46,8 @@
         "categories": [
             "Prose",
             "Novella",
-            "Fantasy"
+            "Fantasy",
+            "Epic"
         ],
         "publication": "Цитаделата (Citadelata)",
         "formats": [
@@ -53,6 +56,6 @@
         "language": "Bulgarian",
         "link": "https://citadelata.com/%D0%B1%D0%B8%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%B7%D0%B0%D0%BB%D0%B5%D0%B7/#5",
         "GRLink": null,
-        "image": "covers/BattleatSunset.png"
+        "image": "covers/BattleatSunset.webp"
     }
 ]
