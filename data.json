@@ -4,7 +4,6 @@
         "description": "A reprint of the story originally published in Collective Realms Magazine, Issue #06.",
         "datePublished": "2021-05-03",
         "categories": [
-            "Prose",
             "Flash Fiction",
             "Fantasy",
             "Mythic"
@@ -23,7 +22,6 @@
         "description": "A flash fiction about an intergalactic emperor's impossible choice.",
         "datePublished": "2021-03-11",
         "categories": [
-            "Prose",
             "Flash Fiction",
             "Sci-fi"
         ],
@@ -41,7 +39,6 @@
         "description": "A flash fiction describing a mythic battle of epic proportions.",
         "datePublished": "2021-02-07",
         "categories": [
-            "Prose",
             "Flash Fiction",
             "Fantasy",
             "Mythic"
@@ -54,14 +51,14 @@
         "language": "English",
         "link": "https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
         "GRLink": null,
-        "image": "covers/crm-issue+06.webp"
+        "image": "covers/crm-issue+06.webp",
+        "buy": "Buy a print copy of the magazine [here](https://www.lazyadventurerpublishing.com/shop/collective-realms-magazine-issue-006)"
     },
     {
         "title": "Елпида (Elpis)",
         "description": "An urban fantasy short story about magic gone wild and a person who despises all thing supernatural.",
         "datePublished": "2013-10-27",
         "categories": [
-            "Prose",
             "Short Story",
             "Fantasy",
             "Urban"
@@ -74,14 +71,14 @@
         "language": "Bulgarian",
         "link": "https://chitanka.info/text/42276-elpida",
         "GRLink": "https://www.goodreads.com/book/show/18718318",
-        "image": "covers/Мечове_в_града-front-1000px.webp"
+        "image": "covers/Мечове_в_града-front-1000px.webp",
+        "buy": "Buy a copy of the anthology by [contacting me](/contact)"
     },
     {
         "title": "Битка по залез (Battle at Sunset)",
         "description": "An epic fantasy novella, each chapter of which was written by a different author. Chapter Five, which introduces the character Irene, was written by me.",
         "datePublished": "2012-08-03",
         "categories": [
-            "Prose",
             "Novella",
             "Fantasy",
             "Epic"
