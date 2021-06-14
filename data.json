@@ -1,5 +1,23 @@
 [
     {
+        "title": "The Den of the Last Dragon",
+        "description": "A sword and sorcery tale set in a harsh land of heroes, rogues, and dragons.",
+        "datePublished": "2021-06-11",
+        "categories": [
+            "Short Story",
+            "Fantasy",
+            "Sword and Sorcery"
+        ],
+        "publication": "Whetstone Issue 3",
+        "formats": [
+            "Online"
+        ],
+        "language": "English",
+        "link": "https://whetstonemag.blogspot.com/2021/06/whetstone-issue-3-now-available.html",
+        "GRLink": "https://www.goodreads.com/book/show/58322088-whetstone",
+        "image": "covers/whetstone-3.webp"
+    },
+    {
         "title": "To Claim the Boy's Heart",
         "description": "A reprint of the story originally published in Collective Realms Magazine, Issue #06.",
         "datePublished": "2021-05-03",
@@ -50,9 +68,9 @@
         ],
         "language": "English",
         "link": "https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
-        "GRLink": null,
+        "GRLink": "https://www.goodreads.com/book/show/58335304-collective-realms-magazine",
         "image": "covers/crm-issue+06.webp",
-        "buy": "Buy a print copy of the magazine [here](https://www.lazyadventurerpublishing.com/shop/collective-realms-magazine-issue-006)"
+        "buy": "Buy a print copy of the issue [here](https://www.lazyadventurerpublishing.com/shop/collective-realms-magazine-issue-006)"
     },
     {
         "title": "Елпида (Elpis)",
@@ -72,7 +90,7 @@
         "link": "https://chitanka.info/text/42276-elpida",
         "GRLink": "https://www.goodreads.com/book/show/18718318",
         "image": "covers/Мечове_в_града-front-1000px.webp",
-        "buy": "Buy a copy of the anthology by [contacting me](/contact)"
+        "buy": "Buy a print copy of the book by [contacting me](/contact)"
     },
     {
         "title": "Битка по залез (Battle at Sunset)",
