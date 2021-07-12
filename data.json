@@ -1,113 +1,88 @@
 [
-    {
-        "title": "The Den of the Last Dragon",
-        "description": "A sword and sorcery tale set in a harsh land of heroes, rogues, and dragons.",
-        "datePublished": "2021-06-11",
-        "categories": [
-            "Short Story",
-            "Fantasy",
-            "Sword and Sorcery"
-        ],
-        "publication": "Whetstone Issue 3",
-        "formats": [
-            "Online"
-        ],
-        "language": "English",
-        "link": "https://whetstonemag.blogspot.com/2021/06/whetstone-issue-3-now-available.html",
-        "GRLink": "https://www.goodreads.com/book/show/58322088-whetstone",
-        "image": "covers/whetstone-3.webp"
-    },
-    {
-        "title": "To Claim the Boy's Heart",
-        "description": "A reprint of the story originally published in Collective Realms Magazine, Issue #06.",
-        "datePublished": "2021-05-03",
-        "categories": [
-            "Flash Fiction",
-            "Fantasy",
-            "Mythic"
-        ],
-        "publication": "CommuterLit",
-        "formats": [
-            "Online"
-        ],
-        "language": "English",
-        "link": "https://commuterlit.com/2021/05/monday-to-claim-the-boys-heart/",
-        "GRLink": null,
-        "image": "covers/commuterlit.webp"
-    },
-    {
-        "title": "Vipunen's Choice",
-        "description": "A flash fiction about an intergalactic emperor's impossible choice.",
-        "datePublished": "2021-03-11",
-        "categories": [
-            "Flash Fiction",
-            "Sci-fi"
-        ],
-        "publication": "Rune Bear Weekly",
-        "formats": [
-            "Online"
-        ],
-        "language": "English",
-        "link": "https://runebear.com/weekly/vipunens-choice/",
-        "GRLink": null,
-        "image": "covers/RuneBear2020.webp"
-    },
-    {
-        "title": "To Claim the Boy's Heart",
-        "description": "A flash fiction describing a mythic battle of epic proportions.",
-        "datePublished": "2021-02-07",
-        "categories": [
-            "Flash Fiction",
-            "Fantasy",
-            "Mythic"
-        ],
-        "publication": "Collective Realms Magazine, Issue #06",
-        "formats": [
-            "Print",
-            "Online"
-        ],
-        "language": "English",
-        "link": "https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
-        "GRLink": "https://www.goodreads.com/book/show/58335304-collective-realms-magazine",
-        "image": "covers/crm-issue+06.webp",
-        "buy": "Buy a print copy of the issue [here](https://www.lazyadventurerpublishing.com/shop/collective-realms-magazine-issue-006)"
-    },
-    {
-        "title": "Елпида (Elpis)",
-        "description": "An urban fantasy short story about magic gone wild and a person who despises all thing supernatural.",
-        "datePublished": "2013-10-27",
-        "categories": [
-            "Short Story",
-            "Fantasy",
-            "Urban"
-        ],
-        "publication": "Мечове в града (Swords in the City)",
-        "formats": [
-            "Print",
-            "Online"
-        ],
-        "language": "Bulgarian",
-        "link": "https://chitanka.info/text/42276-elpida",
-        "GRLink": "https://www.goodreads.com/book/show/18718318",
-        "image": "covers/Мечове_в_града-front-1000px.webp",
-        "buy": "Buy a print copy of the book by [contacting me](/contact)"
-    },
-    {
-        "title": "Битка по залез (Battle at Sunset)",
-        "description": "An epic fantasy novella, each chapter of which was written by a different author. Chapter Five, which introduces the character Irene, was written by me.",
-        "datePublished": "2012-08-03",
-        "categories": [
-            "Novella",
-            "Fantasy",
-            "Epic"
-        ],
-        "publication": "Цитаделата (Citadelata)",
-        "formats": [
-            "Online"
-        ],
-        "language": "Bulgarian",
-        "link": "https://citadelata.com/%D0%B1%D0%B8%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%B7%D0%B0%D0%BB%D0%B5%D0%B7/#5",
-        "GRLink": null,
-        "image": "covers/BattleatSunset.webp"
-    }
+  {
+    "title": "The Perfect Form",
+    "description": "A story on the misconceptions about alien life in the universe.",
+    "datePublished": "2021-07-12",
+    "categories": ["Short Story", "Sci-fi"],
+    "publication": "Bewildering Stories",
+    "formats": ["Online"],
+    "language": "English",
+    "link": "http://www.bewilderingstories.com/issue910/perfect_form.html",
+    "GRLink": null,
+    "image": "covers/BWknot.webp"
+  },
+  {
+    "title": "The Den of the Last Dragon",
+    "description": "A sword and sorcery tale set in a harsh land of heroes, rogues, and dragons.",
+    "datePublished": "2021-06-11",
+    "categories": ["Short Story", "Fantasy", "Sword and Sorcery"],
+    "publication": "Whetstone Issue 3",
+    "formats": ["Online"],
+    "language": "English",
+    "link": "https://whetstonemag.blogspot.com/2021/06/whetstone-issue-3-now-available.html",
+    "GRLink": "https://www.goodreads.com/book/show/58322088-whetstone",
+    "image": "covers/whetstone-3.webp"
+  },
+  {
+    "title": "To Claim the Boy's Heart",
+    "description": "A reprint of the story originally published in Collective Realms Magazine, Issue #06.",
+    "datePublished": "2021-05-03",
+    "categories": ["Flash Fiction", "Fantasy", "Mythic"],
+    "publication": "CommuterLit",
+    "formats": ["Online"],
+    "language": "English",
+    "link": "https://commuterlit.com/2021/05/monday-to-claim-the-boys-heart/",
+    "GRLink": null,
+    "image": "covers/commuterlit.webp"
+  },
+  {
+    "title": "Vipunen's Choice",
+    "description": "A flash fiction about an intergalactic emperor's impossible choice.",
+    "datePublished": "2021-03-11",
+    "categories": ["Flash Fiction", "Sci-fi"],
+    "publication": "Rune Bear Weekly",
+    "formats": ["Online"],
+    "language": "English",
+    "link": "https://runebear.com/weekly/vipunens-choice/",
+    "GRLink": null,
+    "image": "covers/RuneBear2020.webp"
+  },
+  {
+    "title": "To Claim the Boy's Heart",
+    "description": "A flash fiction describing a mythic battle of epic proportions.",
+    "datePublished": "2021-02-07",
+    "categories": ["Flash Fiction", "Fantasy", "Mythic"],
+    "publication": "Collective Realms Magazine, Issue #06",
+    "formats": ["Print", "Online"],
+    "language": "English",
+    "link": "https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
+    "GRLink": "https://www.goodreads.com/book/show/58335304-collective-realms-magazine",
+    "image": "covers/crm-issue+06.webp",
+    "buy": "Buy a print copy of the issue [here](https://www.lazyadventurerpublishing.com/shop/collective-realms-magazine-issue-006)"
+  },
+  {
+    "title": "Елпида (Elpis)",
+    "description": "An urban fantasy short story about magic gone wild and a person who despises all thing supernatural.",
+    "datePublished": "2013-10-27",
+    "categories": ["Short Story", "Fantasy", "Urban"],
+    "publication": "Мечове в града (Swords in the City)",
+    "formats": ["Print", "Online"],
+    "language": "Bulgarian",
+    "link": "https://chitanka.info/text/42276-elpida",
+    "GRLink": "https://www.goodreads.com/book/show/18718318",
+    "image": "covers/Мечове_в_града-front-1000px.webp",
+    "buy": "Buy a print copy of the book by [contacting me](/contact)"
+  },
+  {
+    "title": "Битка по залез (Battle at Sunset)",
+    "description": "An epic fantasy novella, each chapter of which was written by a different author. Chapter Five, which introduces the character Irene, was written by me.",
+    "datePublished": "2012-08-03",
+    "categories": ["Novella", "Fantasy", "Epic"],
+    "publication": "Цитаделата (Citadelata)",
+    "formats": ["Online"],
+    "language": "Bulgarian",
+    "link": "https://citadelata.com/%D0%B1%D0%B8%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%B7%D0%B0%D0%BB%D0%B5%D0%B7/#5",
+    "GRLink": null,
+    "image": "covers/BattleatSunset.webp"
+  }
 ]
