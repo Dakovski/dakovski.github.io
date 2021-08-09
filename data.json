@@ -4,7 +4,7 @@
     "description": "A story on the misconceptions about alien life in the universe.",
     "datePublished": "2021-07-12",
     "categories": ["Short Story", "Sci-fi"],
-    "publication": "Bewildering Stories",
+    "publication": "Bewildering Stories Issue 910",
     "formats": ["Online"],
     "language": "English",
     "link": "http://www.bewilderingstories.com/issue910/perfect_form.html",
@@ -49,16 +49,15 @@
   },
   {
     "title": "To Claim the Boy's Heart",
-    "description": "A flash fiction describing a mythic battle of epic proportions.",
+    "description": "A flash fiction describing a mythic battle of epic proportions.\n\n_Unfortunately, Collective Realms Magazine is now defunct._",
     "datePublished": "2021-02-07",
     "categories": ["Flash Fiction", "Fantasy", "Mythic"],
     "publication": "Collective Realms Magazine, Issue #06",
     "formats": ["Print", "Online"],
     "language": "English",
-    "link": "https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
+    "link": "https://web.archive.org/web/20210207232257/https://www.lazyadventurerpublishing.com/collectiverealms/2021-2-7/to-claim-the-boys-heart",
     "GRLink": "https://www.goodreads.com/book/show/58335304-collective-realms-magazine",
-    "image": "covers/crm-issue+06.webp",
-    "buy": "Buy a print copy of the issue [here](https://www.lazyadventurerpublishing.com/shop/collective-realms-magazine-issue-006)"
+    "image": "covers/crm-issue+06.webp"
   },
   {
     "title": "Елпида (Elpis)",
