@@ -1,5 +1,24 @@
 [
   {
+    "title": "Леговището на последния дракон (The Den of the Last Dragon)",
+    "description": "A translation in Bulgarian of the story \"The Den of the Last Dragon\", originally published in Whetstone Issue 3.",
+    "datePublished": "2025-04-05",
+    "categories": [
+      "Short Story",
+      "Fantasy",
+      "Sword and Sorcery"
+    ],
+    "publication": "Дракус 2025 пролет-лято (Dracus 2025 spring-summer)",
+    "formats": [
+      "Print"
+    ],
+    "language": "Bulgarian",
+    "link": null,
+    "GRLink": null,
+    "image": "covers/dracus_2025.webp",
+    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2025-%d0%bf%d1%80%d0%be%d0%bb%d0%b5%d1%82-%d0%bb%d1%8f%d1%82%d0%be/)."
+  },
+  {
     "title": "Myths Subverted",
     "description": "An anthology of short stories and poetry that was conceived and edited by me. In this collection of short stories, experience world myth, legends, and fairy tales in a way you've never done before. Featuring nineteen stories and four poems by authors both experienced and new.",
     "datePublished": "2022-05-10",
@@ -16,7 +35,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/61072728-myths-subverted",
     "image": "covers/Myths-Subverted.webp",
-    "buy": "Buy a print copy of the book from [Amazon](https://www.amazon.com/Myths-Subverted-Anthology-Mythical-Stories-ebook/dp/B0B1F5QT67) or read it via Kindle Unlimited."
+    "buy": "Buy a copy of the book from [Amazon](https://www.amazon.com/Myths-Subverted-Anthology-Mythical-Stories-ebook/dp/B0B1F5QT67) or read it via Kindle Unlimited."
   },
   {
     "title": "No Boundaries, Love",
@@ -70,7 +89,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/59250896-2021--",
     "image": "covers/Dracus.webp",
-    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](http://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2021-%d0%b5%d1%81%d0%b5%d0%bd-%d0%b7%d0%b8%d0%bc%d0%b0/)"
+    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](http://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2021-%d0%b5%d1%81%d0%b5%d0%bd-%d0%b7%d0%b8%d0%bc%d0%b0/)."
   },
   {
     "title": "Without Loki",
@@ -90,7 +109,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/58872059-schlock-webzine",
     "image": "covers/Schlock.webp",
-    "buy": "Buy a print copy of the book from [Amazon](https://www.amazon.com/Schlock-Webzine-Vol-16-Issue-ebook/dp/B09DTHWPBL) or read it via Kindle Unlimited."
+    "buy": "Buy a copy of the book from [Amazon](https://www.amazon.com/Schlock-Webzine-Vol-16-Issue-ebook/dp/B09DTHWPBL) or read it via Kindle Unlimited."
   },
   {
     "title": "Review",
@@ -107,7 +126,8 @@
     "language": "English",
     "link": null,
     "image": "covers/drabble-harvest-4.webp",
-    "buy": "Buy a print copy of the book from [Hiraeth Publishing](https://www.hiraethsffh.com/product-page/drabble-harvest-4-interplanetary-timeshare-edited-by-terrie-leigh-relf) or [Amazon](https://www.amazon.com/Drabble-Harvest-4-Interplanetary-TimeShare/dp/1087981557)."
+    "buy": "Buy a print copy of the book from [Hiraeth Publishing](https://www.hiraethsffh.com/product-page/drabble-harvest-4-interplanetary-timeshare-edited-by-terrie-leigh-relf) or [Amazon](https://www.amazon.com/Drabble-Harvest-4-Interplanetary-TimeShare/dp/1087981557).",
+    "GRLink": "https://www.goodreads.com/book/show/75594358-drabble-harvest-4"
   },
   {
     "title": "The Perfect Form",
