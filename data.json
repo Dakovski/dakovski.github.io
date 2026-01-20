@@ -1,5 +1,22 @@
 [
-    {
+  {
+    "title": "Литургията на мишките (Liturgy of the Mice)",
+    "description": "A short story in the classic sci-fi manner, set in the 1960s, about experiments with science, religion, and mice. *Won second place* in Strangelings's writing challenge with the topic \"Black liturgy\".",
+    "datePublished": "2026-01-15",
+    "categories": [
+      "Flash Fiction",
+      "Sci-fi Horror"
+    ],
+    "publication": "Strangelings",
+    "formats": [
+      "Online"
+    ],
+    "language": "Bulgarian",
+    "link": "https://strangelings.press/flash-fiction-all/liturgiata-na-mishkite/",
+    "GRLink": null,
+    "image": "covers/strangelings-logo.webp"
+  },
+  {
     "title": "Изборът на Випунен (Vipunen's Choice)",
     "description": "A translation in Bulgarian of the story \"Vipunen's Choice\", originally published in Rune Bear Weekly.",
     "datePublished": "2025-11-27",
