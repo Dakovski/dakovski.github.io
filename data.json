@@ -14,7 +14,13 @@
     "language": "Bulgarian",
     "link": "https://strangelings.press/flash-fiction-all/liturgiata-na-mishkite/",
     "GRLink": null,
-    "image": "covers/liturgy-of-the-mice-bg.webp"
+    "image": "covers/liturgy-of-the-mice-bg.webp",
+    "accolades": [
+      {
+        "label": "Second place in Strangelings's \"Black liturgy\" writing challenge.",
+        "image": ""
+      }
+    ]
   },
   {
     "title": "Изборът на Випунен (Vipunen's Choice)",
@@ -31,7 +37,7 @@
     ],
     "language": "Bulgarian",
     "link": null,
-    "GRLink": null,
+    "GRLink": "https://www.goodreads.com/book/show/247862520",
     "image": "covers/ikratko-13-cover.webp",
     "buy": "Buy a print or ebook copy of the magazine from [the official website of I Kratko](https://ikratko.net/%D0%B1%D1%80%D0%BE%D0%B9-13/)."
   },
@@ -50,13 +56,21 @@
     ],
     "language": "Bulgarian",
     "link": null,
-    "GRLink": null,
+    "GRLink": "https://www.goodreads.com/book/show/231983052-2025--",
     "image": "covers/dracus_2025.webp",
-    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2025-%d0%bf%d1%80%d0%be%d0%bb%d0%b5%d1%82-%d0%bb%d1%8f%d1%82%d0%be/) or from [Ozone](https://www.ozone.bg/product/drakus-prolet-lyato-2025/)."
+    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2025-%d0%bf%d1%80%d0%be%d0%bb%d0%b5%d1%82-%d0%bb%d1%8f%d1%82%d0%be/).",
+    "reviews": [
+      {
+        "text": "Фентъзи за антигерой и дракони. Стори ми се, че е бая съкращаван, от което е пострадал. Ако не е - има някои недоразвити неща. Иначе можеше да е чуден!",
+        "source": [
+          "https://www.goodreads.com/review/show/8011763324"
+        ]
+      }
+    ]
   },
   {
     "title": "Myths Subverted",
-    "description": "An anthology of short stories and poetry that was conceived and edited by me. In this collection of short stories, experience world myth, legends, and fairy tales in a way you've never done before. Featuring nineteen stories and four poems by authors both experienced and new.",
+    "description": "An anthology of short stories and poetry that was conceived and __edited__ by me. In this collection of short stories, experience world myth, legends, and fairy tales in a way you've never done before. Featuring nineteen stories and four poems by authors both experienced and new.",
     "datePublished": "2022-05-10",
     "categories": [
       "Short Story Anthology",
@@ -71,7 +85,8 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/61072728-myths-subverted",
     "image": "covers/Myths-Subverted.webp",
-    "buy": "Buy a copy of the book from [Amazon](https://www.amazon.com/Myths-Subverted-Anthology-Mythical-Stories-ebook/dp/B0B1F5QT67) or read it via Kindle Unlimited."
+    "buy": "Buy a copy of the book from [Amazon](https://www.amazon.com/Myths-Subverted-Anthology-Mythical-Stories-ebook/dp/B0B1F5QT67) or read it via Kindle Unlimited.",
+    "credit": "Editor"
   },
   {
     "title": "No Boundaries, Love",
@@ -198,7 +213,21 @@
     "language": "English",
     "link": "https://whetstonemag.blogspot.com/2021/06/whetstone-issue-3-now-available.html",
     "GRLink": "https://www.goodreads.com/book/show/58322088-whetstone",
-    "image": "covers/whetstone-3.webp"
+    "image": "covers/whetstone-3.webp",
+    "reviews": [
+      {
+        "text": "A would-be dragon slayer and his just rewards.",
+        "source": [
+          "https://www.goodreads.com/review/show/4218465009"
+        ]
+      },
+      {
+        "text": "This one is also darkly funny. First, I enjoyed the twist of the thief robbing the Conan archetype. The ending is also, let’s just say, a fun little turn. Also it takes place on Lemuria, and I dig how in Dakovski’s Lemuria, Africa and Europa are as mythical to them as their continent is to us.",
+        "source": [
+          "https://jthowardpulp.wordpress.com/2021/06/12/whetstone-issue-3-thoughts-review/"
+        ]
+      }
+    ]
   },
   {
     "title": "To Claim the Boy's Heart",
@@ -272,7 +301,40 @@
     "link": "https://chitanka.info/text/42276-elpida",
     "GRLink": "https://www.goodreads.com/book/show/18718318",
     "image": "covers/Мечове_в_града-front-1000px.webp",
-    "buy": "Buy a print copy of the book by [contacting me](/contact)"
+    "buy": "Buy a print copy of the book by [contacting me](/contact)",
+    "reviews": [
+      {
+        "text": "Надеждата. Има я навсякъде но е въпрос на време, а и на воля човек да я потърси и да я открие изобщо. Някак си ми стана любопитно, обаче, какво точно се случи с Дракона на сълзите - тъжно беше, че бе погълнат така...",
+        "source": [
+          "https://ekaterinaes.blogspot.com/2015/05/blog-post_25.html"
+        ]
+      },
+      {
+        "text": "Историята, която се базира на една от най-използваните теми в ърбън-фентъзито - метрото. Разказът е написан добре, но така и не успя да ме заинтригува кой знае колко.",
+        "source": [
+          "https://www.goodreads.com/review/show/1274056718"
+        ]
+      },
+      {
+        "text": "Димитър Дъковски съвсем по геймъновски ни разхожда из потайностите на английското метро и подземния нереален свят на древния остров",
+        "source": [
+          "https://www.goodreads.com/review/show/1239989489"
+        ]
+      },
+      {
+        "text": "красив разказ, красива легенда. А, да - и внимавайте с метрото. Особено лондонското.",
+        "source": [
+          "https://chetene.blogspot.com/2013/",
+          "https://www.goodreads.com/review/show/749817284"
+        ]
+      },
+      {
+        "text": "Този разказ е поредната смес от няколко основни движения във фантастиката като цяло. Разбираме, че господин Дъковски е фен на Нийл Геймън и Саймън Грийн. Това личи от чудесните му мрачни пасажи ала Геймън и леко обърканите му пространствени описания ала Грийн (да ме прощават феновете на Саймън, които са в изобилие в редиците на \"Цитаделата\", ама цялата маса от думи ми идва в много - не ме съдете много, още съм лаик в творчеството на британеца). Димитър Дъковски обаче не се е справил никак зле с разказа си \"Елпида\". На моменти ми идеше да открадна някой и друг епизод за лична употреба. Моментът в метрото, където пътуват само някакви си изроди, направо ме разби. Много силно и много на място. Красота!!! Чакаме още.",
+        "source": [
+          "https://kosta-sivov.blogspot.com/2013/11/blog-post.html"
+        ]
+      }
+    ]
   },
   {
     "title": "Битка по залез (Battle at Sunset)",
