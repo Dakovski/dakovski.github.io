@@ -18,6 +18,24 @@
     "buy": "Buy a print copy of the magazine from [the official website of Magazine 8](https://spisanie8.bg/списание/шесто-чувство.html)."
   },
   {
+    "title": "in the distant past…",
+    "description": "A haiku about prophecies.",
+    "datePublished": "2026-07-24",
+    "categories": [
+      "Haiku",
+      "Sci-fi"
+    ],
+    "publication": "Scifaikuest August 2026",
+    "formats": [
+      "Print"
+    ],
+    "language": "English",
+    "link": null,
+    "image": "covers/Scifaikuest-August-2026.webp",
+    "buy": "Buy a print copy of the book from [Hiraeth Publishing](https://www.hiraethsffh.com/product-page/scifaikuest-august-2026), [Amazon](https://www.amazon.com/Scifaikuest-August-2026-Teri-Santitoro/dp/B0HBL3PQV4) or [Barnes & Noble](https://www.barnesandnoble.com/w/scifaikuest-august-2026-teri-santitoro/1150879306).",
+    "GRLink": "https://www.goodreads.com/book/show/75594358-drabble-harvest-4"
+  },
+  {
     "title": "Легендата за змията, животът на момчето (The Legend of the Serpent, the Truth About the Warrior, the Life of the Boy)",
     "description": "The original version, in Bulgarian, of the short story already published in Swords & Sorcery Magazine, issue 172.",
     "datePublished": "2026-06-26",
@@ -190,7 +208,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/231983052-2025--",
     "image": "covers/dracus_2025.webp",
-    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/издание/дракус-2025-пролет-лято/).",
+    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/издание/дракус-2025-пролет-лято/) or from [Ozone.bg](https://www.ozone.bg/product/drakus-prolet-lyato-2025/).",
     "reviews": [
       {
         "text": "Фентъзи за антигерой и дракони. Стори ми се, че е бая съкращаван, от което е пострадал. Ако не е - има някои недоразвити неща. Иначе можеше да е чуден!",
