@@ -1,5 +1,23 @@
 [
   {
+    "title": "Ирина и изпитът",
+    "description": "A short story about a young woman retelling the history of a world of hope, humanism and bright tomorrows.\n\nSpisanie 8 features an illustration of the story by Lyudmil Ivanov (this is my first story to be illustrated.)",
+    "datePublished": "2026-08-06",
+    "categories": [
+      "Short Story",
+      "Sci-fi/Alternate history"
+    ],
+    "publication": "Списание 8, брой 08/2026 (Magazine 8, issue 08/2026)",
+    "formats": [
+      "Print"
+    ],
+    "language": "Bulgarian",
+    "link": "https://spisanie8.bg/списание/шесто-чувство.html",
+    "GRLink": null,
+    "image": "covers/spisanie-8-8-26.webp",
+    "buy": "Buy a print copy of the magazine from [the official website of Magazine 8](https://spisanie8.bg/списание/шесто-чувство.html)."
+  },
+  {
     "title": "Легендата за змията, животът на момчето (The Legend of the Serpent, the Truth About the Warrior, the Life of the Boy)",
     "description": "The original version, in Bulgarian, of the short story already published in Swords & Sorcery Magazine, issue 172.",
     "datePublished": "2026-06-26",
@@ -153,7 +171,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/247862520",
     "image": "covers/ikratko-13-cover.webp",
-    "buy": "Buy a print or ebook copy of the magazine from [the official website of I Kratko](https://ikratko.net/%D0%B1%D1%80%D0%BE%D0%B9-13/)."
+    "buy": "Buy a print or ebook copy of the magazine from [the official website of I Kratko](https://ikratko.net/брой-13/)."
   },
   {
     "title": "Леговището на последния дракон (The Den of the Last Dragon)",
@@ -172,7 +190,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/231983052-2025--",
     "image": "covers/dracus_2025.webp",
-    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2025-%d0%bf%d1%80%d0%be%d0%bb%d0%b5%d1%82-%d0%bb%d1%8f%d1%82%d0%be/).",
+    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](https://gaiana-books.com/издание/дракус-2025-пролет-лято/).",
     "reviews": [
       {
         "text": "Фентъзи за антигерой и дракони. Стори ми се, че е бая съкращаван, от което е пострадал. Ако не е - има някои недоразвити неща. Иначе можеше да е чуден!",
@@ -254,7 +272,7 @@
     "link": null,
     "GRLink": "https://www.goodreads.com/book/show/59250896-2021--",
     "image": "covers/Dracus.webp",
-    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](http://gaiana-books.com/%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/%d0%b4%d1%80%d0%b0%d0%ba%d1%83%d1%81-2021-%d0%b5%d1%81%d0%b5%d0%bd-%d0%b7%d0%b8%d0%bc%d0%b0/)."
+    "buy": "Buy a print copy of the magazine by contacting [Gaiana book&art studio](http://gaiana-books.com/издание/дракус-2021-есен-зима/)."
   },
   {
     "title": "Without Loki",
@@ -464,7 +482,7 @@
       "Online"
     ],
     "language": "Bulgarian",
-    "link": "https://citadelata.com/%D0%B1%D0%B8%D1%82%D0%BA%D0%B0-%D0%BF%D0%BE-%D0%B7%D0%B0%D0%BB%D0%B5%D0%B7/#5",
+    "link": "https://citadelata.com/битка-по-залез/#5",
     "GRLink": null,
     "image": "covers/BattleatSunset.webp"
   }
