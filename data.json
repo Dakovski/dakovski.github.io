@@ -1,5 +1,61 @@
 [
   {
+    "title": "Съветът на Кучето (The Dog's Counsel)",
+    "description": "A story about a couple seeking council from a great philosopher.",
+    "datePublished": "2026-08-29",
+    "categories": [
+      "Short story",
+      "Fantasy",
+      "Mythic"
+    ],
+    "publication": "Меридиан 27",
+    "formats": [
+      "Online"
+    ],
+    "language": "Bulgarian",
+    "link": "https://www.meridian27.com/article/savetat-na-kucheto",
+    "GRLink": null,
+    "image": "covers/meridian27.webp",
+    "buy": null
+  },
+  {
+    "title": "Разбира се, читателю (Of Course, Reader)",
+    "description": "A story about the struggles of an explorer towards a wondrous goal.",
+    "datePublished": "2026-08-28",
+    "categories": [
+      "Short story",
+      "Fantasy"
+    ],
+    "publication": "АЛФА & ΩМЕГА, №6, 8/2026 (ALPHA & ΩMEGA, #6, 8/2026)",
+    "formats": [
+      "Print"
+    ],
+    "language": "Bulgarian",
+    "link": null,
+    "GRLink": null,
+    "image": "covers/alfa-omega-6.webp",
+    "buy": "Buy a print copy of the magazine from [the official website of Fiction Fabric](https://fictionfabric.press/product/alfa-omega-sixth-issue/)."
+  },
+  {
+    "title": "В отсъствието на Локи (Without Loki)",
+    "description": "A story about an alternative Norse cosmology that would take place without Loki. A translation in Bulgarian of the story \"Without Loki\", originally published in Schlock! Webzine: Vol. 16, Issue 20.",
+    "datePublished": "2026-08-28",
+    "categories": [
+      "Flash Fiction",
+      "Fantasy",
+      "Alternate mythology"
+    ],
+    "publication": "АЛФА & ΩМЕГА, №6, 8/2026 (ALPHA & ΩMEGA, #6, 8/2026)",
+    "formats": [
+      "Print"
+    ],
+    "language": "Bulgarian",
+    "link": null,
+    "GRLink": null,
+    "image": "covers/alfa-omega-6.webp",
+    "buy": "Buy a print copy of the magazine from [the official website of Fiction Fabric](https://fictionfabric.press/product/alfa-omega-sixth-issue/)."
+  },
+  {
     "title": "Ирина и изпитът",
     "description": "A short story about a young woman retelling the history of a world of hope, humanism and bright tomorrows.\n\nSpisanie 8 features an illustration of the story by Lyudmil Ivanov (this is my first story to be illustrated.)",
     "datePublished": "2026-08-06",
@@ -12,7 +68,7 @@
       "Print"
     ],
     "language": "Bulgarian",
-    "link": "https://spisanie8.bg/списание/шесто-чувство.html",
+    "link": null,
     "GRLink": null,
     "image": "covers/spisanie-8-8-26.webp",
     "buy": "Buy a print copy of the magazine from [the official website of Magazine 8](https://spisanie8.bg/списание/шесто-чувство.html)."
@@ -33,7 +89,7 @@
     "link": null,
     "image": "covers/Scifaikuest-August-2026.webp",
     "buy": "Buy a print copy of the book from [Hiraeth Publishing](https://www.hiraethsffh.com/product-page/scifaikuest-august-2026), [Amazon](https://www.amazon.com/Scifaikuest-August-2026-Teri-Santitoro/dp/B0HBL3PQV4) or [Barnes & Noble](https://www.barnesandnoble.com/w/scifaikuest-august-2026-teri-santitoro/1150879306).",
-    "GRLink": "https://www.goodreads.com/book/show/75594358-drabble-harvest-4"
+    "GRLink": "https://www.goodreads.com/book/show/255916697"
   },
   {
     "title": "Легендата за змията, животът на момчето (The Legend of the Serpent, the Truth About the Warrior, the Life of the Boy)",
@@ -299,7 +355,7 @@
     "categories": [
       "Flash Fiction",
       "Fantasy",
-      "Mythic"
+      "Alternate mythology"
     ],
     "publication": "Schlock! Webzine: Vol. 16, Issue 20",
     "formats": [
